@@ -211,7 +211,7 @@ The pre-trained garbage classification model that is used for making predictions
 
 | Home Screen | Prediction Screen |
 | ----------- | ----------------- |
-| ![Home](https://ibb.co/B5xNbsfL) | ![Predict](https://ibb.co/RpZh5y4W) |
+| ![Home](https://i.ibb.co/Jw4QVkcn/Screenshot-20250704-160450.jpg) | ![Predict](https://i.ibb.co/0j8BwtV3/Screenshot-20250704-160459.jpg) |
 
 
 ---
